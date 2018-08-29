@@ -9,6 +9,7 @@
     "image-size": "^0.6.3",
     "mariasql": "^0.2.6",
     "mysql": "^2.16.0",
+    "node-cron": "^1.2.1",
     "request": "^2.88.0",
     "sync-sql": "^1.0.2"
   }
